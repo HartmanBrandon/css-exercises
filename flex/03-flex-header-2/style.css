@@ -62,7 +62,9 @@ ul {
   padding-left: 10px;
   gap: 15px;
 }
-/* 
-.notifications {
+
+.right {
+  display: flex;
   gap: 8px;
-} */
+  align-items: center;
+} 
